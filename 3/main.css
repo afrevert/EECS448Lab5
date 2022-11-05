@@ -1,0 +1,45 @@
+body
+{
+    background-color: #e8f4ea;
+}
+p {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+p.linkParagraphText {
+    display: inline-block;
+    width: 400px;
+}
+.linkName {
+    font-size: 60px;
+    line-height: 0px;
+    height: 0px;
+}
+a {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: green;
+}
+a:hover
+{
+    color: deepskyblue;
+}
+div.container {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+body {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+body
+{
+    background-image: url(2.jpg); background-size: 100%;
+    background-repeat: no-repeat; background-attachment: fixed;
+}
+img{
+    padding-top: 48px;
+}
